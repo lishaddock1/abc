@@ -1,0 +1,29 @@
+{
+    "name": "friendship-recorder",
+    "author": "Tom",
+    "url": "https://github.com/your-repo/friendship-recorder",
+    "version": "1.0.0",
+    "minVersion": "2.8.0",
+    "backends": [
+        "desktop",
+        "mobile"
+    ],
+    "description": "朋友关系记录和管理插件",
+    "entry": "index.js",
+    "i18n": [
+        "zh_CN",
+        "en_US"
+    ],
+    "funding": {
+        "openCollective": "",
+        "patreon": "",
+        "github": "",
+        "custom": []
+    },
+    "keywords": [
+        "friends",
+        "relationship",
+        "social",
+        "analytics"
+    ]
+}
