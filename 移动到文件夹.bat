@@ -1,0 +1,1 @@
+cp friendship-plugin D:\AppData\SiYuan\data\plugins
